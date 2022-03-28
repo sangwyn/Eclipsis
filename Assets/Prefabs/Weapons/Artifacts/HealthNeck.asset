@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4786963d38b77264385df40424a47b74, type: 3}
+  m_Name: HealthNeck
+  m_EditorClassIdentifier: 
+  _name: Necklace of Vigor
+  _uiIcon: {fileID: 21300000, guid: b10744926beed5a4885dd4774f6c65e4, type: 3}
+  _itemPrefab: {fileID: 123825369737832099, guid: 0111a1d748ee43946939a948735ff10e, type: 3}
